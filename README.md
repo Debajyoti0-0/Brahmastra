@@ -64,7 +64,7 @@ sudo ./install_tool.sh
 
 - LFI Vulnerability Finder: The tool assists in finding Local File Inclusion (LFI) vulnerabilities on a target URL. It checks if the target URL is susceptible to LFI attacks.
 
-These are the main features of the tool you provided, offering a range of functionalities for reconnaissance, vulnerability assessment, and security testing.
+These are the main features of the Brahmastra tool, offering a range of functionalities for reconnaissance, vulnerability assessment, and security testing.
 
 
 ## ⁉️ Usage:
