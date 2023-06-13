@@ -55,7 +55,7 @@ sudo ./install_tool.sh
 
 - Directory Lister: It allows you to find directories on a target URL or IP. The tool uses "ffuf" with a wordlist to perform directory enumeration.
 
-1- CMS Specific Scans: The tool includes specific scans for popular CMS platforms like WordPress and Joomla. It utilizes "wpscan" for WordPress scanning and "joomscan" for Joomla scanning.
+- CMS Specific Scans: The tool includes specific scans for popular CMS platforms like WordPress and Joomla. It utilizes "wpscan" for WordPress scanning and "joomscan" for Joomla scanning.
 
 - SQL Injection Finder: It performs SQL injection detection on a target URL. You can provide a payload list, and the tool sends requests with each payload to check for vulnerability.
 
