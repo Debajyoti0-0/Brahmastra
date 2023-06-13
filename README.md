@@ -22,13 +22,14 @@ sudo apt install python3-pip -y
 ```
 
 ```bash
+cd Brahmastra
+chmod +x *
 sudo pip3 install -r requirements.txt
 ```
 
 * Then install the other requirements.
 
 ```bash
-chmod +x *
 sudo ./install_tool.sh
 ```
 
