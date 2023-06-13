@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo apt-get update
 
-sudo apt-get install -y wget curl whois xdg-utils golang-go gccgo-go perl
+sudo apt-get install -y wget curl whois xdg-utils golang-go gccgo-go perl whois
 pip install droopescan
 
 # Download and install wpscan
