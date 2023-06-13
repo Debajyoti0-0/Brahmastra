@@ -5,7 +5,7 @@
 
 ![alt text](https://github.com/Debajyoti0-0/Brahmastra/blob/main/assets/img/Brahmastra.png)
 
-[![asciicast](https://github.com/Debajyoti0-0/Brahmastra/blob/main/assets/img/Brahmastra.jpg)](https://github.com/Debajyoti0-0/Brahmastra/blob/main/assets/video/brahmastra.mp4)
+[![Video Title](https://github.com/Debajyoti0-0/Brahmastra/blob/main/assets/img/Brahmastra.jpg)](https://github.com/Debajyoti0-0/Brahmastra/blob/main/assets/video/brahmastra.mp4)
 
 ## 🛠️ Installation:
 
