@@ -3,7 +3,7 @@
 "Brahmastra" is a powerful security analysis tool inspired by the ancient Indian mythology of Lord Brahma. Just as Lord Brahma was known for his divine wisdom and knowledge, this tool embodies those qualities by offering a comprehensive range of security assessment functionalities. With its Python-based script, Brahmastra combines network scanning, web crawling, vulnerability scanning, and CMS detection capabilities. By utilizing external tools and modules, it enables users to discover social media profiles, gather information, perform SSL analysis, identify subdomains, detect vulnerabilities such as SQL injection and XSS, and much more. The tool's intuitive menu system provides an easy-to-use interface, empowering security professionals to conduct thorough security assessments and uncover potential vulnerabilities and weaknesses in target systems. Embracing the name of an ancient divine weapon, Brahmastra aims to provide security practitioners with a potent tool to safeguard modern digital environments.
 
 
-![alt text](https://github.com/Debajyoti0-0/Brahmastra/blob/main/assets/img/Brahmastra.jpg)
+![alt text](https://github.com/Debajyoti0-0/Brahmastra/blob/main/assets/img/Brahmastra-removebg-preview.png)
 
 
 
