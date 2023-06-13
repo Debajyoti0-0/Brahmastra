@@ -15,7 +15,7 @@
 git clone https://github.com/Debajyoti0-0/Brahmastra.git
 ```
 
-* Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Python libraries' requirements.
+* Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Python libraries requirements.
 
 ```bash
 sudo apt install python-pip python3-pip -y
