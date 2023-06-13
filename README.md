@@ -6,7 +6,7 @@
 ![alt text](https://github.com/Debajyoti0-0/Brahmastra/blob/main/assets/img/Brahmastra.png)
 
 <video width="640" height="360" controls>
-  <source src="https://github.com/Debajyoti0-0/Brahmastra/blob/main/assets/video/brahmastra.mp4" type="video/mp4">
+  <source src="assets/video/brahmastra.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
