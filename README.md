@@ -32,7 +32,7 @@ chmod +x *
 sudo ./install_tool.sh
 ```
 
-## 🎯 Features
+## 🎯 Features:
 
 
 - OSINT Analysis: The tool allows you to find social media profiles associated with a target username. It utilizes the "social-analyzer" tool for this purpose.
@@ -77,13 +77,13 @@ python3 Brahmastra.py
 ![alt text](https://github.com/Debajyoti0-0/Brahmastra/blob/main/assets/img/Screenshot.png)
 
 
-## 💚 Contributing
+## 💚 Contributing:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
 
-## 🔑 License
+## 🔑 License:
 
 Distributed under the GNU V3.0 License. See [LICENSE](https://github.com/Debajyoti0-0/Brahmastra/blob/main/LICENSE) for more information.
 
