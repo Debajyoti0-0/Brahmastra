@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+builtwith
+colorama
+urllib3
+social-analyzer
+whois
+droopescan
+python-nmap
