@@ -395,13 +395,41 @@ def lfi_vulnerability_finder():
 def s3scaner_bucket():
     os.system('clear')
     banner()
-    print(COLOR.YELLOW + "\n[!] S3 Bucket Scanner Tool Coming Soon...Stay Tuned.😉"+ COLOR.WHITE)
+    print(COLOR.PURPLE + "\n=== S3 Scan ==="+ COLOR.WHITE)
+    bucket_url = input(COLOR.LIGHT_CYAN + "[?] Enter your S3 bucket URL: "+ COLOR.WHITE)
+    use_no_sign = input(COLOR.LIGHT_CYAN + "[?] Use no-sign-request? (y/n): "+ COLOR.WHITE)
+    sign_request = "--no-sign-request" if use_no_sign.lower() in ['y', 'yes', 'Y', 'YES', 'Yes'] else ""
+    region = input(COLOR.LIGHT_CYAN + "[?] Enter the AWS region: "+ COLOR.WHITE)
+
+    # Build the AWS CLI command
+    command = f"aws s3 ls {bucket_url} {sign_request} --region {region}"
+
+    # Execute the command
+    try:
+        output = subprocess.check_output(command, shell=True, text=True)
+        print("\n")
+        print(output)
+    except subprocess.CalledProcessError as e:
+        print("\n")
+        print(COLOR.RED + f"[!] An error occurred: {e}"+ COLOR.WHITE)
+
 
 # Smart Contracts Analyze
 def smart_contract():
     os.system('clear')
     banner()
-    print(COLOR.YELLOW + "\n[!] Smart Contracts Analysis Tool Coming Soon...Stay Tuned.😉"+ COLOR.WHITE)
+    print(COLOR.PURPLE + "\n=== Smart Contracts Analyze ==="+ COLOR.WHITE)
+    sol_filepath = input(COLOR.LIGHT_CYAN + "[?] Enter the path to the SOL file: "+ COLOR.WHITE)
+
+    try:
+        subprocess.run(["slither", sol_filepath], check=True)
+    except subprocess.CalledProcessError as e:
+        print(COLOR.RED + f"[!] Error occurred during scanning: {e}"+ COLOR.WHITE)
+    except FileNotFoundError:
+        print(COLOR.RED +"[!] Slither is not installed or not accessible in the system path."+ COLOR.WHITE)
+    except Exception as e:
+        print(COLOR.RED + f"[!] An unexpected error occurred: {e}"+ COLOR.WHITE)
+
 
 # Read Brahmastra
 def read():
