@@ -9,3 +9,5 @@ droopescan
 python-nmap
 crypto
 pyopenssl
+slither-analyzer
+awscli
