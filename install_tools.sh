@@ -37,6 +37,7 @@ sudo apt install nmap -y
 
 # Download and install Node.js and NPM
 sudo apt install nodejs -y
+sudo apt-get install solc -y
 
 
 echo "[+] All tools downloaded and installed successfully!"
