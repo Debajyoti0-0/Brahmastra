@@ -11,3 +11,4 @@ crypto
 pyopenssl
 slither-analyzer
 awscli
+solc-select
