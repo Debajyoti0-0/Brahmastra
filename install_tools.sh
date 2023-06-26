@@ -40,8 +40,8 @@ sudo apt install nodejs -y
 
 # Download and install solc-selct
 pip install solc-select
-solc-select install "$(solc-select install | tail -n 1)" > version && solc-select install "$(cat version)"
-solc-select install "$(solc-select install | tail -n 1)" > version && solc-select use "$(cat version)"
+solc-select install "$(solc-select install | tail -n 1 | grep -oP '\d+\.\d+\.\d+')" | grep -oP '\d+\.\d+\.\d+' | head -n 1 > version && solc-select use "$(cat version)"
+
 
 
 echo "[+] All tools downloaded and installed successfully!"
