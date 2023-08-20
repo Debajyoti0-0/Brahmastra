@@ -30,7 +30,7 @@ sudo pip3 install -r requirements.txt
 * Then install the other requirements.
 
 ```bash
-sudo ./install_tool.sh
+sudo ./install_tools.sh
 ```
 
 ## 🎯 Features:
